@@ -1,6 +1,9 @@
 // Styling for the portfolio grid section
 .portfolio {
   margin-bottom: -30px;
+  .nav-link {
+    font-size: 1.2em;
+  } 
   .portfolio-item {
     cursor: pointer;
     position: relative;
